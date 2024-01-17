@@ -24,4 +24,4 @@
   <a href="mailto:diogenes.paulista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/danielbped/DiogenesPaulista/blob/output/github-contribution-grid-snake.svg)
+ <!-- <![Snake animation](https://github.com/DiogenesPaulista/DiogenesPaulista/blob/output/github-contribution-grid-snake.svg) -->
