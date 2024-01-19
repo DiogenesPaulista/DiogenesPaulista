@@ -1,4 +1,4 @@
-### Ola  👋
+### Olá, meu nome é DIOGENES
 <div align="center">
 <a href="https://github.com/DiogenesPaulista">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DiogenesPaulista&theme=transparent&show_icons=true&hide_border=false&show_owner=true"/>
