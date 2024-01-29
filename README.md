@@ -1,3 +1,4 @@
+<html>
 <script>
 h2 span{
   position: relative;
@@ -64,5 +65,5 @@ h2 span::before {
   <a href="https://www.discord.gg/diogenes6227" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:diogenes.paulista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
+</html>
  <!-- <![Snake animation](https://github.com/DiogenesPaulista/DiogenesPaulista/blob/output/github-contribution-grid-snake.svg) -->
