@@ -1,3 +1,44 @@
+<script>
+h2 span{
+  position: relative;
+  color: rgba(255,255,255,0.0);
+  animation: displayText 9s infinite;
+  animation-delay: calc(-3s * var(--i));
+}
+
+@keyframes displayText{
+  0% {
+    display: inline-block;
+  }
+  33.33%, 100% {
+    display: none;
+  }
+}
+
+h2 span::before {
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  color: #5e34c0;
+  overflow: hidden;
+  border-right: 4px solid #5e43c0;
+  filter: drop-shadow(0 0 5px #5e34c0) drop-shadow(0 0 25px #5e34c0);
+  animation: animate 3s linear infinite;
+}
+
+@keyframes animate{
+  0%, 10%, 100% {
+    width: 0;
+  }
+  70%, 90% {
+    width: 100%;
+  }
+}
+</script>
+
+
 ### Olá, meu nome é DIOGENES sou desenvolver fullstack
 <div align="center">
 <a href="https://github.com/DiogenesPaulista">
