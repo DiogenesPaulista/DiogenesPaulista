@@ -1,5 +1,6 @@
 ### Olá, Espero que esteja bem, e um prazer compartilhar meu perfil com você.
 > Abaixo um pouco sobre meu perfil.
+>> Procure sempre se aprimorar!
 
 <div align="center">
 <a href="https://github.com/DiogenesPaulista">
@@ -7,6 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogenesPaulista&theme=transparent&hide_border=false&&layout=compact"/>
 </a>
 </div>
+>> Conhecimentos
 <div align="center" valign="top"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
